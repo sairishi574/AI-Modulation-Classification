@@ -1,7 +1,7 @@
 # AI-Based Modulation Classification in Noisy Wireless Systems
 
 ## 📌 Overview
-This project focuses on classifying wireless modulation schemes under noisy conditions using deep learning.
+This project focuses on classifying wireless modulation schemes under noisy conditions using deep learning. 
 
 A hybrid approach combining time-domain (I/Q signals) and frequency-domain (FFT features) is used to improve classification performance.
 
